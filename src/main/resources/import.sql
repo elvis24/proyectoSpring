@@ -17,5 +17,5 @@ insert into producto(id, nombre, precio, id_fabricante) values(6,'Disco solido S
 insert into producto(id, nombre, precio, id_fabricante) values(7,'Disco solido Sata 1TB', 78.99,7);
 insert into producto(id, nombre, precio, id_fabricante) values(8,'Disco solido Sata 1TB', 60.99,8);
 insert into producto(id, nombre, precio, id_fabricante) values(9,'Disco solido Sata 1TB', 89.99,9);
-insert into producto(id, nombre, precio, id_fabricante) values(10,'Disco solido Sata 1TB', 89.99,10);
-insert into producto(id, nombre, precio, id_fabricante) values(11,'Disco solido Sata 1TB', 90.99,11);
+insert into producto(id, nombre, precio, id_fabricante) values(10,'Disco solido Sata 1TB', 89.99,3);
+insert into producto(id, nombre, precio, id_fabricante) values(11,'Disco solido Sata 1TB', 90.99,3);

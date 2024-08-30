@@ -4,10 +4,12 @@ import com.aplication.rest.Rest.entities.Maker;
 import com.aplication.rest.Rest.persistence.IMakerDAO;
 import com.aplication.rest.Rest.service.IMakerService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
 
+@Service
 public class IMakerServiceImpl implements IMakerService {
 
     @Autowired
