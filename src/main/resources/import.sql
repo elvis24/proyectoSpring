@@ -1,0 +1,21 @@
+insert into fabricante(id, nombre) values(1,'ASUS');
+insert into fabricante(id, nombre) values(2,'LENOVO');
+insert into fabricante(id, nombre) values(3,'HP');
+insert into fabricante(id, nombre) values(4,'APPLE');
+insert into fabricante(id, nombre) values(5,'INVICTUS');
+insert into fabricante(id, nombre) values(6,'SAMSUN');
+insert into fabricante(id, nombre) values(7,'HUAWEI');
+insert into fabricante(id, nombre) values(8,'XIOMI');
+insert into fabricante(id, nombre) values(9,'SEAGATE');
+
+insert into producto(id, nombre, precio, id_fabricante) values(1,'Disco solido Sata 1TB', 89.99,5);
+insert into producto(id, nombre, precio, id_fabricante) values(2,'Disco solido Sata 1TB', 120.90,4);
+insert into producto(id, nombre, precio, id_fabricante) values(3,'Disco solido Sata 1TB', 89.99,5);
+insert into producto(id, nombre, precio, id_fabricante) values(4,'Disco solido Sata 1TB', 89.99,6);
+insert into producto(id, nombre, precio, id_fabricante) values(5,'Disco solido Sata 1TB', 58.99,7);
+insert into producto(id, nombre, precio, id_fabricante) values(6,'Disco solido Sata 1TB', 89.99,3);
+insert into producto(id, nombre, precio, id_fabricante) values(7,'Disco solido Sata 1TB', 78.99,7);
+insert into producto(id, nombre, precio, id_fabricante) values(8,'Disco solido Sata 1TB', 60.99,8);
+insert into producto(id, nombre, precio, id_fabricante) values(9,'Disco solido Sata 1TB', 89.99,9);
+insert into producto(id, nombre, precio, id_fabricante) values(10,'Disco solido Sata 1TB', 89.99,10);
+insert into producto(id, nombre, precio, id_fabricante) values(11,'Disco solido Sata 1TB', 90.99,11);
